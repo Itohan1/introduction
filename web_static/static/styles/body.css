@@ -1,0 +1,15 @@
+body {
+ background-color: blue;
+}
+
+.main-container {
+    background-color: white;
+    height: 100%;
+    width: 50%;
+    font-size: 2em;
+    margin: auto
+}
+
+.styled-link {
+    color: green;
+}
